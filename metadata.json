@@ -1,0 +1,8 @@
+{
+  "name": "K-Power Pulse · Smp Dashboard",
+  "description": "전력거래소(KPX) 계통한계가격(SMP) CSV 데이터 기반의 실시간 전기 시세 대시보드 및 AI 시장 분석 브리핑 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
